@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab403122-b575-4477-82cc-3b1ed56ded6c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Luta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UEC/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UEC/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +71,8 @@
       <updated>1667259548314</updated>
       <workItem from="1667259550387" duration="5806000" />
       <workItem from="1667344478846" duration="4445000" />
-      <workItem from="1667350108437" duration="289000" />
+      <workItem from="1667350108437" duration="876000" />
+      <workItem from="1667770792608" duration="59000" />
     </task>
     <servers />
   </component>
