@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Studies.iml" filepath="$PROJECT_DIR$/.idea/Java-Studies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pessoa/Pessoa.iml" filepath="$PROJECT_DIR$/Pessoa/Pessoa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UEC/UEC.iml" filepath="$PROJECT_DIR$/UEC/UEC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atividade 1/atividade 1.iml" filepath="$PROJECT_DIR$/atividade 1/atividade 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atividade arraylist/atividade arraylist.iml" filepath="$PROJECT_DIR$/atividade arraylist/atividade arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula2/aula2.iml" filepath="$PROJECT_DIR$/aula2/aula2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula4/aula4.iml" filepath="$PROJECT_DIR$/aula4/aula4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comparador/comparador.iml" filepath="$PROJECT_DIR$/comparador/comparador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controleremoto/controleremoto.iml" filepath="$PROJECT_DIR$/controleremoto/controleremoto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio_banco/exercicio_banco.iml" filepath="$PROJECT_DIR$/exercicio_banco/exercicio_banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heranca/heranca.iml" filepath="$PROJECT_DIR$/heranca/heranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poliformismo/poliformismo.iml" filepath="$PROJECT_DIR$/poliformismo/poliformismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projectvideo/projectvideo.iml" filepath="$PROJECT_DIR$/projectvideo/projectvideo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testa_jframe/testa_jframe.iml" filepath="$PROJECT_DIR$/testa_jframe/testa_jframe.iml" />
+    </modules>
+  </component>
+</project>
